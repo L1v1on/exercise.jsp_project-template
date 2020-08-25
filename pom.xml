@@ -10,8 +10,8 @@
   <packaging>war</packaging>
 
   <name>jsp-project-template Maven Webapp</name>
-  <!-- FIXME change it to the project's website -->
-  <url>http://www.example.com</url>
+  <!-- FIXME change it to the project's website - Done -->
+  <url>http://localhost:8080/sample</url>
 
 
   <properties>
